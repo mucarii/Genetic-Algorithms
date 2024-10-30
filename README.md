@@ -11,6 +11,6 @@ Este projeto implementa um Algoritmo Genético simples para otimização de uma 
 
 ## Tecnologias Utilizadas
 
-- Python 3.x
+- Python 3.11
 - NumPy
 - Matplotlib
